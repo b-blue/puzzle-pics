@@ -1,6 +1,10 @@
 # Puzzle Pics
 
-Oh yeah, if you know, you know.
+I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). Multiplayer sessions require non-local links, hence these images are hosted on Github. 
+
+These images fall into one of two categories: 
+    - Sentimental images (Phil folder)
+    - Good images for a jigsaw puzzle (elaborate, busy, interesting pictures - all other folders)
 
 ## Structure
 
