@@ -9,15 +9,15 @@ These images fall into one of two categories:
 ## Structure
 
 - Other
-  - `https://b-blue.github.io/puzzle-pics/Other/greek-mythology.png`
+  - [Greek Mythology](https://b-blue.github.io/puzzle-pics/Other/greek-mythology.png)
 - Phil
-  - `https://b-blue.github.io/puzzle-pics/Phil/Colorado-A.jpeg`
-  - `https://b-blue.github.io/puzzle-pics/Phil/Colorado-B.jpeg`
-  - `https://b-blue.github.io/puzzle-pics/Phil/Iowa-A.jpeg`
+  - [Colorado-A](https://b-blue.github.io/puzzle-pics/Phil/Colorado-A.jpeg)
+  - [Colorado-B](https://b-blue.github.io/puzzle-pics/Phil/Colorado-B.jpeg)
+  - [Iowa-A](https://b-blue.github.io/puzzle-pics/Phil/Iowa-A.jpeg)
 - Zurgetron
-  - `https://b-blue.github.io/puzzle-pics/Zurgetron/Busy-Street-Scene.png`
-  - `https://b-blue.github.io/puzzle-pics/Zurgetron/Concrete-Jungle.png`
-  - `https://b-blue.github.io/puzzle-pics/Zurgetron/Crumbling-Creek.png`
-  - `https://b-blue.github.io/puzzle-pics/Zurgetron/Cybergunk.png`
-  - `https://b-blue.github.io/puzzle-pics/Zurgetron/Halls-of-the-Mad-King.png`
-  - `https://b-blue.github.io/puzzle-pics/Zurgetron/Midnight-Metropolis.png`
+  - [Busy Street Scene](https://b-blue.github.io/puzzle-pics/Zurgetron/Busy-Street-Scene.png)
+  - [Concrete Jungle](https://b-blue.github.io/puzzle-pics/Zurgetron/Concrete-Jungle.png)
+  - [Crumbling Creek](https://b-blue.github.io/puzzle-pics/Zurgetron/Crumbling-Creek.png)
+  - [Cybergunk](https://b-blue.github.io/puzzle-pics/Zurgetron/Cybergunk.png)
+  - [Halls of the Mad King](https://b-blue.github.io/puzzle-pics/Zurgetron/Halls-of-the-Mad-King.png)
+  - [Midnight Metropolis](https://b-blue.github.io/puzzle-pics/Zurgetron/Midnight-Metropolis.png)
