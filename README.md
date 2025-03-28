@@ -10,6 +10,12 @@ These images fall into one of two categories:
 
 - Other
   - [Greek Mythology](https://b-blue.github.io/puzzle-pics/Other/greek-mythology.png)
+  - [Back 4 Blood](./Other/back-4-blood.jpg)
+  - [Complex Routine](./Other/complex-routine.jpeg)
+  - [Food Shops](./Other/food-shops.jpg)
+  - [Intergalactic Veterinarian](./Other/intergalactic-veterinarian.png)
+  - [The Raid by Josan Gonzalez](./Other/the-raid-josan-gonzalez.jpg)
+  - [Where is John Oliver?](./Other/where-is-john-oliver.jpg)
 - Phil
   - [Colorado-A](https://b-blue.github.io/puzzle-pics/Phil/Colorado-A.jpeg)
   - [Colorado-B](https://b-blue.github.io/puzzle-pics/Phil/Colorado-B.jpeg)
