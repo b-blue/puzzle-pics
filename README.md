@@ -44,9 +44,9 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
   - [Welcome to Goo Lagoon](./Morgan%20Girvin/MG-Welcome-To-Goo-Lagoon.png)
   - [Willy Wonka and the Chocolate Factory](./Morgan%20Girvin/MG-Willy-Wonka.png)
 - Other
-  - [Back 4 Blood](./Other/Back-4-Blood.jpg)
+  - [Back 4 Blood](./Other/Back-4-Blood-Reupload.jpg)
   - [Cerrunos and his Druids (Raphael LaCoste)](./Other/Raphael-LaCoste-Cerunnos-And-His-Druids.jpg)
-  - [Complex Routine](./Other/Complex-Routine.jpeg)
+  - [Complex Routine](./Other/Complex-Routine-Reupload.jpeg)
   - [Cyberpunk Cityscape](./Other/Cyberpunk-Cityscape.jpg)
   - [Engine Maintenance (Mac Rebiz)](./Other/Mac-Rebiz-Engine-Maintenance.jpg)
   - [Food Shops](./Other/Food-Shops.jpg)
@@ -60,7 +60,7 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
   - [r/place (2022)](./Other/Reddit-R-Place-2022.png)
   - [The Rift (Gal Barkan)](./Other/Gal-Barkan-The-Rift.jpg)
   - [Tokyo Cityscape](./Other/Tokyo-Cityscape.jpg)
-  - [Where Is John Oliver?](./Other/Where-Is-John-Oliver.jpg)
+  - [Where Is John Oliver?](./Other/Where-Is-John-Oliver-Reupload.jpg)
 - Zurgetron
   - [Busy Street Scene](https://b-blue.github.io/puzzle-pics/Zurgetron/Busy-Street-Scene.png)
   - [Concrete Jungle](https://b-blue.github.io/puzzle-pics/Zurgetron/Concrete-Jungle.png)
