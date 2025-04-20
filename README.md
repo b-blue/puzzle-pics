@@ -1,25 +1,66 @@
 # Puzzle Pics
 
-I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). Multiplayer sessions require non-local links, hence these images are hosted on Github. 
-
-These images fall into one of two categories: 
-    - Sentimental images (Phil folder)
-    - Good images for a jigsaw puzzle (elaborate, busy, interesting pictures - all other folders)
+I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). Multiplayer sessions require non-local links, hence these images are hosted on Github.
 
 ## Structure
 
+- Classics
+  - [Bonaparte Before The Sphinx (Jean Leon Gerome)](./Classics/Jean-Leon-Gerome-Bonaparte-Before-The-Sphinx.jpg)
+  - [Joshua Commanding The Sun to Stand Still Before Gibeon (John Martin)](./Classics/John-Martin-Joshua-Commanding-The-Sun-To-Stand-Still-Upon-Gibeon.jpg)
+  - [La Morte di Cesare (Vincenzo Camuccini)](./Classics/Vincenzo-Camuccini-La-morte-di-Cesare.jpg)
+  - [Washington Crossing The Delaware (Emanuel Leutze)](./Classics/Emanuel-Leutze-Washington-Crossing-The-Delaware.jpg)
+  - [Watson And The Shark (John Singleton Copley)](./Classics/John-Singleton-Copley-Watson-And-The-Shark.jpg)
+- Maps
+  - [Bayport (Morgan Girvin)](./Maps/MG-Bayport.jpg)
+  - [Manhattan](./Maps/Manhattan.png)
+  - [Seattle Map](./Maps/Seattle-Map.jpg)
+  - [Washington Ferry (Tom Crestodina)](./Maps/Tom-Crestodina-Washington-Ferry.jpeg)
+  - [World Map (Remi Desprit)](./Maps/Remi-Desprit-World-Map.jpg)
+- Morgan Girvin
+  - [Akira](./Morgan%20Girvin/MG-Akira.jpg)
+  - [Anatomy of a Dog](./Morgan%20Girvin/MG-Anatomy-Of-A-Dog.png)
+  - [Batman Returns](./Morgan%20Girvin/MG-Batman-Returns.png)
+  - [The Batman](./Morgan%20Girvin/MG-The-Batman.png)
+  - [Dawn At the Snicket](./Morgan%20Girvin/MG-Dawn-At-The-Snicket.jpg)
+  - [Dredd](./Morgan%20Girvin/MG-Dredd.jpg)
+  - [End of the Line Club](./Morgan%20Girvin/MG-End-of-Line-Club.jpg)
+  - [Fitznebula Parkway](./Morgan%20Girvin/MG-Fitznebula-Parkway.png)
+  - [The Grand Budapest Hotel](./Morgan%20Girvin/MG-The-Grand-Budapest-Hotel.png)
+  - [Home Alone](./Morgan%20Girvin/MG-Home-Alone.png)
+  - [Jak and Daxter](./Morgan%20Girvin/MG-Jak-And-Daxter.png)
+  - [Kill Bill, Vol. 1](./Morgan%20Girvin/MG-Kill-Bill-Vol-1.jpg)
+  - [Last Night in Soho](./Morgan%20Girvin/MG-Last-Night-In-Soho.jpg)
+  - [Layover in Tar'hai IV](./Morgan%20Girvin/MG-Layover-In-Tarhai-IV.png)
+  - [Mr. Robot](./Morgan%20Girvin/MG-Mr-Robot.jpg)
+  - [The Nightstand](./Morgan%20Girvin/MG-The-Nightstand.jpg)
+  - [Reservoir Dogs](./Morgan%20Girvin/MG-Reservoir-Dogs.png)
+  - [The Seafloor Cinema](./Morgan%20Girvin/MG-The-Seafloor-Cinema.png)
+  - [Snowpiercer](./Morgan%20Girvin/MG-Snowpiercer.png)
+  - [Spaced Out](./Morgan%20Girvin/MG-Spaced-Out.png)
+  - [Stairs, Stairs, Stairs](./Morgan%20Girvin/MG-Stairs-Stairs-Stairs.png)
+  - [The Station Doesn't Sleep](./Morgan%20Girvin/MG-Station-Doesnt-Sleep.jpg)
+  - [Taskmaster](./Morgan%20Girvin/MG-Taskmaster.jpg)
+  - [Untitled](./Morgan%20Girvin/MG-Untitled.png)
+  - [Welcome to Goo Lagoon](./Morgan%20Girvin/MG-Welcome-To-Goo-Lagoon.png)
+  - [Willy Wonka and the Chocolate Factory](./Morgan%20Girvin/MG-Willy-Wonka.png)
 - Other
-  - [Greek Mythology](https://b-blue.github.io/puzzle-pics/Other/greek-mythology.png)
-  - [Back 4 Blood](https://b-blue.github.io/puzzle-pics/Other/back-4-blood.jpg)
-  - [Complex Routine](https://b-blue.github.io/puzzle-pics/Other/complex-routine.jpeg)
-  - [Food Shops](https://b-blue.github.io/puzzle-pics/Other/food-shops.jpg)
-  - [Intergalactic Veterinarian](https://b-blue.github.io/puzzle-pics/Other/intergalactic-veterinarian.png)
-  - [The Raid by Josan Gonzalez](https://b-blue.github.io/puzzle-pics/Other/the-raid-josan-gonzalez.jpg)
-  - [Where is John Oliver?](https://b-blue.github.io/puzzle-pics/Other/where-is-john-oliver.jpg)
-- Phil
-  - [Colorado-A](https://b-blue.github.io/puzzle-pics/Phil/Colorado-A.jpeg)
-  - [Colorado-B](https://b-blue.github.io/puzzle-pics/Phil/Colorado-B.jpeg)
-  - [Iowa-A](https://b-blue.github.io/puzzle-pics/Phil/Iowa-A.jpeg)
+  - [Back 4 Blood](./Other/Back-4-Blood.jpg)
+  - [Cerrunos and his Druids (Raphael LaCoste)](./Other/Raphael-LaCoste-Cerunnos-And-His-Druids.jpg)
+  - [Complex Routine](./Other/Complex-Routine.jpeg)
+  - [Cyberpunk Cityscape](./Other/Cyberpunk-Cityscape.jpg)
+  - [Engine Maintenance (Mac Rebiz)](./Other/Mac-Rebiz-Engine-Maintenance.jpg)
+  - [Food Shops](./Other/Food-Shops.jpg)
+  - [Greek Mythology](./Other/Greek-Mythology.png)
+  - [Insurrection Maze](./Other/Insurrection-Maze.png)
+  - [Intergalactic Veterinarian](./Other/Intergalactic-Veterinarian.png)
+  - [Lost in Edo](./Other/Lost-In-Edo.jpg)
+  - [Paper Airplane Maze (Michelle Boggess)](./Other/Michelle-Boggess-Paper-Airplane-Maze.png)
+  - [The Raid (Josan Gonzalez)](./Other/Josan-Gonzalez-The-Raid.jpg)
+  - [Rom Com (Dom McKenzie)](./Other/Dom-McKenzie-Rom-Com.png)
+  - [r/place (2022)](./Other/Reddit-R-Place-2022.png)
+  - [The Rift (Gal Barkan)](./Other/Gal-Barkan-The-Rift.jpg)
+  - [Tokyo Cityscape](./Other/Tokyo-Cityscape.jpg)
+  - [Where Is John Oliver?](./Other/Where-Is-John-Oliver.jpg)
 - Zurgetron
   - [Busy Street Scene](https://b-blue.github.io/puzzle-pics/Zurgetron/Busy-Street-Scene.png)
   - [Concrete Jungle](https://b-blue.github.io/puzzle-pics/Zurgetron/Concrete-Jungle.png)
