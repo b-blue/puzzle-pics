@@ -42,8 +42,6 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
 </td> 
 </table>
 
----
-
 ## Maps
 
 <table>
@@ -83,8 +81,6 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
   </div>
 </td> 
 </table>
-
----
 
 ## [Morgan Girvin](https://morgangirvin.com/film-posters)
 
@@ -289,8 +285,6 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
 </tr>
 </table>
 
----
-
 ## Other
 
 <table>
@@ -423,8 +417,6 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
 </tr>
 </table>
 
----
- 
 ## Zurgetron
 
 <table>
