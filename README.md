@@ -457,9 +457,8 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
     </div>
   </td> 
 </tr>
-<tr>
-  </td> 
-    <td>
+<tr> 
+  <td>
     <div title="Midnight Metropolis | Zurgtreon">
       <a href="./Zurgetron/Midnight-Metropolis.png">
         <img src="./Zurgetron/Midnight-Metropolis.png" alt="drawing" width="200"/>
