@@ -328,15 +328,15 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
 <tr>
   <td>
     <div title="Food Shops">
-      <a href="./Other/Food-Shops.jpg">
-        <img src="./Other/Food-Shops.jpg" alt="drawing" width="200"/>
+      <a href="./Other/Food-Shops-Reupload.jpg">
+        <img src="./Other/Food-Shops-Reupload.jpg" alt="drawing" width="200"/>
       </a>
   </div>
   </td> 
   <td>
     <div title="Greek Mythology">
-      <a href="./Other/Greek-Mythology.png">
-        <img src="./Other/Greek-Mythology.png" alt="drawing" width="200"/>
+      <a href="./Other/Greek-Mythology-Reupload.png">
+        <img src="./Other/Greek-Mythology-Reupload.png" alt="drawing" width="200"/>
     </a>
   </div>
   </td> 
@@ -349,8 +349,8 @@ I use these pictures for jigsaw puzzles on Tabletop Simulator (Jigsaw Join 2). M
   </td> 
   <td>
     <div title="Intergalactic Veterinarian">
-      <a href="./Other/Intergalactic-Veterinarian.png">
-        <img src="./Other/Intergalactic-Veterinarian.png" alt="drawing" width="200"/>
+      <a href="./Other/Intergalactic-Veterinarian-Reupload.png">
+        <img src="./Other/Intergalactic-Veterinarian-Reupload.png" alt="drawing" width="200"/>
       </a>
     </div>
   </td> 
